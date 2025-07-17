@@ -1,3 +1,5 @@
+##Introduction
+    I am a full-stack blockchain developer with hands on experience.
 ## :star2: About the My Project
 MyShop is an E-commerce web application built with Next.js and MongoDB.
     
